@@ -197,7 +197,7 @@ print(liste5[len(liste5) - 1])
 print(liste5[0])
 print(liste5[-len(liste5)])
 
-print(liste
+
 
 
 
